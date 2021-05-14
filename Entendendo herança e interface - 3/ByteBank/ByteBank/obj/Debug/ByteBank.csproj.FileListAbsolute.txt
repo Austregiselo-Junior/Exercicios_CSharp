@@ -1,0 +1,6 @@
+C:\Curso\Formação C# com POO\Entendendo herança e interface\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Curso\Formação C# com POO\Entendendo herança e interface\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Curso\Formação C# com POO\Entendendo herança e interface\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Curso\Formação C# com POO\Entendendo herança e interface\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Curso\Formação C# com POO\Entendendo herança e interface\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Curso\Formação C# com POO\Entendendo herança e interface\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
