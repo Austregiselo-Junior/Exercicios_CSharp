@@ -1,0 +1,7 @@
+C:\Curso\Formação C# com POO\Entendendo exerções - 4\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Curso\Formação C# com POO\Entendendo exerções - 4\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Curso\Formação C# com POO\Entendendo exerções - 4\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Curso\Formação C# com POO\Entendendo exerções - 4\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.exe
+C:\Curso\Formação C# com POO\Entendendo exerções - 4\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.pdb
+C:\Curso\Formação C# com POO\Entendendo exerções - 4\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.exe
+C:\Curso\Formação C# com POO\Entendendo exerções - 4\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.pdb
