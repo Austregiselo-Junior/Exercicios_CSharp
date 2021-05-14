@@ -1,0 +1,7 @@
+C:\Curso\Formação C# com POO\Strings, expressões regulares e classe Object - 6\csharppt6-aula1\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Curso\Formação C# com POO\Strings, expressões regulares e classe Object - 6\csharppt6-aula1\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Curso\Formação C# com POO\Strings, expressões regulares e classe Object - 6\csharppt6-aula1\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Curso\Formação C# com POO\Strings, expressões regulares e classe Object - 6\csharppt6-aula1\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+C:\Curso\Formação C# com POO\Strings, expressões regulares e classe Object - 6\csharppt6-aula1\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Curso\Formação C# com POO\Strings, expressões regulares e classe Object - 6\csharppt6-aula1\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Curso\Formação C# com POO\Strings, expressões regulares e classe Object - 6\csharppt6-aula1\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
