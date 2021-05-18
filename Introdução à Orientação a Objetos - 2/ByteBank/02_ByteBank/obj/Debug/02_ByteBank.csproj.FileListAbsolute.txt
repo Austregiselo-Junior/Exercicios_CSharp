@@ -1,0 +1,14 @@
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos\ByteBank\02_ByteBank\bin\Debug\02_ByteBank.exe.config
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos\ByteBank\02_ByteBank\bin\Debug\02_ByteBank.exe
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos\ByteBank\02_ByteBank\bin\Debug\02_ByteBank.pdb
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos\ByteBank\02_ByteBank\obj\Debug\02_ByteBank.csprojAssemblyReference.cache
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos\ByteBank\02_ByteBank\obj\Debug\02_ByteBank.csproj.CoreCompileInputs.cache
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos\ByteBank\02_ByteBank\obj\Debug\02_ByteBank.exe
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos\ByteBank\02_ByteBank\obj\Debug\02_ByteBank.pdb
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos - 2\ByteBank\02_ByteBank\bin\Debug\02_ByteBank.exe.config
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos - 2\ByteBank\02_ByteBank\bin\Debug\02_ByteBank.exe
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos - 2\ByteBank\02_ByteBank\bin\Debug\02_ByteBank.pdb
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos - 2\ByteBank\02_ByteBank\obj\Debug\02_ByteBank.csprojAssemblyReference.cache
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos - 2\ByteBank\02_ByteBank\obj\Debug\02_ByteBank.csproj.CoreCompileInputs.cache
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos - 2\ByteBank\02_ByteBank\obj\Debug\02_ByteBank.exe
+C:\Curso\Formação C# com POO\Introdução à Orientação a Objetos - 2\ByteBank\02_ByteBank\obj\Debug\02_ByteBank.pdb
