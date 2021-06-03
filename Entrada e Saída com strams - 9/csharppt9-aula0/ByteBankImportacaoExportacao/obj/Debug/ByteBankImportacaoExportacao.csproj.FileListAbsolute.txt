@@ -1,0 +1,7 @@
+C:\Curso\Formação C# com POO\Entrada e Saída com strams - 9\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Curso\Formação C# com POO\Entrada e Saída com strams - 9\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Curso\Formação C# com POO\Entrada e Saída com strams - 9\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Curso\Formação C# com POO\Entrada e Saída com strams - 9\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+C:\Curso\Formação C# com POO\Entrada e Saída com strams - 9\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Curso\Formação C# com POO\Entrada e Saída com strams - 9\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Curso\Formação C# com POO\Entrada e Saída com strams - 9\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
