@@ -1,0 +1,7 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposGenericos\TiposGenericos\bin\Debug\TiposGenericos.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposGenericos\TiposGenericos\bin\Debug\TiposGenericos.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposGenericos\TiposGenericos\bin\Debug\TiposGenericos.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposGenericos\TiposGenericos\obj\Debug\TiposGenericos.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposGenericos\TiposGenericos\obj\Debug\TiposGenericos.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposGenericos\TiposGenericos\obj\Debug\TiposGenericos.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposGenericos\TiposGenericos\obj\Debug\TiposGenericos.pdb

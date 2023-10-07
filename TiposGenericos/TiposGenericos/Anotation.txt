@@ -1,0 +1,36 @@
+﻿Introdução aos genéricos do C#
+Os genéricos C# permitem que você escreva código que funcione com mais de um tipo. Ao usar genéricos, você pode escrever código com espaços reservados para tipos e, em seguida, fornecer os tipos reais ao usar o código.
+Suponha que você precise escrever um método que troque os valores de duas variáveis ​​inteiras . Para fazer isso, você pode definir um método chamado SwapInt()que aceite dois parâmetros inteiros como este:
+
+static void SwapInt(ref int a, ref int b)
+{
+    int temp = a;
+        a = b;
+        b = temp;
+}
+
+Posteriormente, você deseja trocar os valores de duas variáveis ​​de string . Nesse caso, você precisa definir um novo método que troque as strings:
+
+static void SwapString(ref string a, ref string b)
+{
+    string temp = a;
+           a = b;
+           b = temp;
+}
+
+Ambos os métodos SwapInt()e SwapString()têm a mesma lógica, exceto pelos tipos das variáveis ​​com as quais lidam.
+Imagine que você precise trocar valores de duas variáveis ​​de um novo tipo, por exemplo, float , você precisa definir um novo método para cada novo tipo. Como resultado, você terá muitos Swap*métodos com a mesma lógica.
+Para resolver isso, você pode criar um método genérico que troque valores de variáveis ​​de qualquer tipo como este:
+
+static void Swap<T>(ref T a, ref T b)
+{
+    T temp = a;
+      a = b;
+      b = temp;
+}
+
+Ao usar o Swap()método, você pode especificar o tipo específico. Por exemplo:
+
+int x = 10, y = 20;
+
+Swap<int>(ref x, ref y); O método agora é do tipo genérico, guarda a mesma lógica e a pessoa pode usar o tipo que desejar.
