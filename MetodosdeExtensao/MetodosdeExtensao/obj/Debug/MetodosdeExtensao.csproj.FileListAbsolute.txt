@@ -1,0 +1,7 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosdeExtensao\MetodosdeExtensao\bin\Debug\MetodosdeExtensao.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosdeExtensao\MetodosdeExtensao\bin\Debug\MetodosdeExtensao.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosdeExtensao\MetodosdeExtensao\bin\Debug\MetodosdeExtensao.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosdeExtensao\MetodosdeExtensao\obj\Debug\MetodosdeExtensao.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosdeExtensao\MetodosdeExtensao\obj\Debug\MetodosdeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosdeExtensao\MetodosdeExtensao\obj\Debug\MetodosdeExtensao.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosdeExtensao\MetodosdeExtensao\obj\Debug\MetodosdeExtensao.pdb

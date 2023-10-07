@@ -1,0 +1,9 @@
+﻿Introdução aos métodos de extensão C#
+Para adicionar um método a uma classe , geralmente subclassificamos a classe existente e adicionamos o método à classe derivada.
+
+O C# introduziu um novo recurso chamado métodos de extensão que permite adicionar novos métodos a um tipo (ou classe) existente sem a necessidade de usar herança .
+
+Um método de extensão é um método estático , mas é chamado como se fosse um método de instância no tipo estendido.
+
+OBS: O método de extensão adiciona outra método a um tipo específico.
+OBS: Os métodos de extensão C# permitem que você estenda um tipo existente sem usar herança.
