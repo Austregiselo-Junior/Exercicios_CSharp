@@ -1,0 +1,13 @@
+﻿Princípio de inversão de dependência
+
+O Princípio da Inversão de Dependência afirma que módulos de alto nível não devem depender de módulos de baixo nível, mas 
+ambos devem depender de abstrações.
+
+Módolo de alto nível -> É a camada de front-end, do xaml até a ViewModel.
+Módolo de baixo nível -> Seria o back-end, da camada de serviços ao acesso de dados
+Abstrações -> É uma interface, que é colocada entre os módolos acima.
+
+Geralmente naturalmente há acoplamento porque quando aperto um botão  ação vai do front até o back, assim fazendo com que uma alteração 
+em um módolo cause a necessidade de alteração no outro. Então pra evitar isso usamos interface.
+O front vai depender da inerface e o back vai implementar essa interface.
+

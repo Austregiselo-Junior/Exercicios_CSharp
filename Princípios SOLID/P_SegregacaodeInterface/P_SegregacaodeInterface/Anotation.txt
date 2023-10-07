@@ -1,0 +1,5 @@
+﻿Uma classe não deve ser forçada a implementar métodos desnecessários, ou seja não devemos criar interfaçes genéricas porque quando uma classe 
+for implementala terá que implementar métodos desnecessários.
+
+Assim temos que criar interfaçes específicas.
+

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P_SubstituicaoLiskov", "P_SubstituicaoLiskov\P_SubstituicaoLiskov.csproj", "{79036D85-6921-4EA8-8E96-074CAE90A16D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79036D85-6921-4EA8-8E96-074CAE90A16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79036D85-6921-4EA8-8E96-074CAE90A16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79036D85-6921-4EA8-8E96-074CAE90A16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79036D85-6921-4EA8-8E96-074CAE90A16D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C674B351-EFFA-4570-B5A3-E2C717A2F2A0}
+	EndGlobalSection
+EndGlobal

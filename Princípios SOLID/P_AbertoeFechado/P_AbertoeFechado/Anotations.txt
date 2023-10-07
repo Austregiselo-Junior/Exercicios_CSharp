@@ -1,0 +1,11 @@
+﻿O princípio Aberto-fechado afirma que as entidades de software ( classes , métodos, funções, etc.) devem ser abertas para extensão, mas fechadas para modificação.
+
+Em termos simples, você deve projetar uma classe ou método de forma que possa estender seu comportamento sem modificar diretamente o código-fonte existente.
+
+OBS: Se para adicionar um novo método precise modificar uma classe já existentem estamos violando esse princípio.
+
+O princípio aberto-fechado traz os seguintes benefícios:
+
+Reutilização de código: quando você projeta uma classe para ser aberta para extensão, fica mais fácil reutilizar esse código em outras partes do sistema. Ao criar código reutilizável, você pode economizar tempo e esforço no longo prazo. Além disso, fica mais fácil adicionar novas funcionalidades ao sistema sem impactar o código existente
+Complexidade de código reduzida: ao criar classes fechadas para modificação, você pode reduzir a complexidade da base de código. Conseqüentemente, você pode facilitar a manutenção e extensão do sistema quando desejar adicionar novos recursos ou fazer alterações.
+Maior flexibilidade: O princípio aberto-fechado promove flexibilidade no sistema de software que permite adicionar novas funcionalidades ao sistema com facilidade e confiança, sem modificar o código existente. Isso torna mais fácil responder rapidamente às mudanças nos requisitos.

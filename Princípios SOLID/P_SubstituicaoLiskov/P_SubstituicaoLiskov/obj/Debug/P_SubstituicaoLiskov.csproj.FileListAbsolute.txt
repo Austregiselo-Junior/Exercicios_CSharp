@@ -1,0 +1,7 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SubstituicaoLiskov\P_SubstituicaoLiskov\bin\Debug\P_SubstituicaoLiskov.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SubstituicaoLiskov\P_SubstituicaoLiskov\bin\Debug\P_SubstituicaoLiskov.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SubstituicaoLiskov\P_SubstituicaoLiskov\bin\Debug\P_SubstituicaoLiskov.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SubstituicaoLiskov\P_SubstituicaoLiskov\obj\Debug\P_SubstituicaoLiskov.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SubstituicaoLiskov\P_SubstituicaoLiskov\obj\Debug\P_SubstituicaoLiskov.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SubstituicaoLiskov\P_SubstituicaoLiskov\obj\Debug\P_SubstituicaoLiskov.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SubstituicaoLiskov\P_SubstituicaoLiskov\obj\Debug\P_SubstituicaoLiskov.pdb

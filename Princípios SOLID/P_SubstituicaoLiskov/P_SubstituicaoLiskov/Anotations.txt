@@ -1,0 +1,9 @@
+﻿Se um método usa uma classe base , então ele deve ser capaz de usar qualquer uma de suas classes derivadas sem a necessidade de ter informações sobre a classe derivada.
+
+Em outras palavras, as classes derivadas devem ser substituíveis por sua classe base sem causar erros ou efeitos colaterais. Isto significa que o comportamento da classe derivada não deve contradizer o comportamento da classe base.
+
+Ou seja, uma classe base não pode ter sentido diferente da classe base.
+
+Temos uma classe base chamada Veiculo com um método driver, todos as suas derivações devem ser um veículo que possa ser dirigido como carro e onibus.
+Não faz sentido ter uma classe Humado herdando de veículo porque o humano caminha.
+

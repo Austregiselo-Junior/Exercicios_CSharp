@@ -1,0 +1,7 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_AbertoeFechado\P_AbertoeFechado\bin\Debug\P_AbertoeFechado.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_AbertoeFechado\P_AbertoeFechado\bin\Debug\P_AbertoeFechado.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_AbertoeFechado\P_AbertoeFechado\bin\Debug\P_AbertoeFechado.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_AbertoeFechado\P_AbertoeFechado\obj\Debug\P_AbertoeFechado.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_AbertoeFechado\P_AbertoeFechado\obj\Debug\P_AbertoeFechado.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_AbertoeFechado\P_AbertoeFechado\obj\Debug\P_AbertoeFechado.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_AbertoeFechado\P_AbertoeFechado\obj\Debug\P_AbertoeFechado.pdb

@@ -1,0 +1,7 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_ResposabilidadeUnica\P_ResposabilidadeUnica\bin\Debug\P_ResposabilidadeUnica.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_ResposabilidadeUnica\P_ResposabilidadeUnica\bin\Debug\P_ResposabilidadeUnica.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_ResposabilidadeUnica\P_ResposabilidadeUnica\bin\Debug\P_ResposabilidadeUnica.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_ResposabilidadeUnica\P_ResposabilidadeUnica\obj\Debug\P_ResposabilidadeUnica.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_ResposabilidadeUnica\P_ResposabilidadeUnica\obj\Debug\P_ResposabilidadeUnica.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_ResposabilidadeUnica\P_ResposabilidadeUnica\obj\Debug\P_ResposabilidadeUnica.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_ResposabilidadeUnica\P_ResposabilidadeUnica\obj\Debug\P_ResposabilidadeUnica.pdb

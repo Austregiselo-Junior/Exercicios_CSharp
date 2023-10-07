@@ -1,0 +1,7 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SegregacaodeInterface\P_SegregacaodeInterface\bin\Debug\P_SegregacaodeInterface.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SegregacaodeInterface\P_SegregacaodeInterface\bin\Debug\P_SegregacaodeInterface.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SegregacaodeInterface\P_SegregacaodeInterface\bin\Debug\P_SegregacaodeInterface.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SegregacaodeInterface\P_SegregacaodeInterface\obj\Debug\P_SegregacaodeInterface.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SegregacaodeInterface\P_SegregacaodeInterface\obj\Debug\P_SegregacaodeInterface.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SegregacaodeInterface\P_SegregacaodeInterface\obj\Debug\P_SegregacaodeInterface.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_SegregacaodeInterface\P_SegregacaodeInterface\obj\Debug\P_SegregacaodeInterface.pdb

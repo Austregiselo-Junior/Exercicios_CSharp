@@ -1,0 +1,7 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_InversaodeDependencia\P_InversaodeDependencia\bin\Debug\P_InversaodeDependencia.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_InversaodeDependencia\P_InversaodeDependencia\bin\Debug\P_InversaodeDependencia.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_InversaodeDependencia\P_InversaodeDependencia\bin\Debug\P_InversaodeDependencia.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_InversaodeDependencia\P_InversaodeDependencia\obj\Debug\P_InversaodeDependencia.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_InversaodeDependencia\P_InversaodeDependencia\obj\Debug\P_InversaodeDependencia.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_InversaodeDependencia\P_InversaodeDependencia\obj\Debug\P_InversaodeDependencia.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Princípios SOLID\P_InversaodeDependencia\P_InversaodeDependencia\obj\Debug\P_InversaodeDependencia.pdb

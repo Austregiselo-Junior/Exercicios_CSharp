@@ -1,0 +1,13 @@
+﻿O Princípio da Responsabilidade Única afirma que um módulo de software deve ter uma única responsabilidade , ou seja, deve ter um e apenas um motivo para mudar .
+
+Em C#, um módulo de software pode ser uma classe ou um método de uma classe.
+
+Por ter uma responsabilidade única, uma classe se torna mais coesa e mais fácil de manter. 
+Também torna a aplicação mais flexível, uma vez que as alterações numa responsabilidade não afetam outras responsabilidades.
+
+Por exemplo, uma classe responsável por representar dados deveria ter apenas a responsabilidade de mantê-los. 
+Ele não deve ser responsável por salvar os dados em um banco de dados ou realizar qualquer outra tarefa não relacionada.
+
+Ao separar essas responsabilidades em classes separadas, o aplicativo se torna mais fácil de manter e estender.
+
+OBS: O Princípio da Responsabilidade Única afirma que um módulo deve ter apenas um motivo para mudar.
