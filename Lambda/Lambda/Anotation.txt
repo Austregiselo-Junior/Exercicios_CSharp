@@ -1,0 +1,28 @@
+﻿Introdução às expressões lambda em C#
+Uma expressão lambda é um método anônimo escrito no lugar de uma instância delegada . Uma expressão lambda é usada para criar uma função anônima.
+
+Uma expressão lambda pode ter uma de duas formas: lambda de expressão e lambda de instrução.
+
+Uma expressão lambda tem uma expressão em seu corpo:
+
+(parameters) => expression
+Linguagem do código:  C#  ( cs )
+Uma instrução lambda tem um bloco de instrução como seu corpo:
+
+(parameters) => { statements; }
+Linguagem do código:  C#  ( cs )
+Nessa sintaxe, o =>é chamado de operador lambda.
+
+Para formar uma expressão lambda, especifique parâmetros de entrada no lado esquerdo do operador lambda e uma expressão ou bloco de instrução no lado direito.
+
+Se uma expressão lambda não tiver nenhum parâmetro de entrada, você poderá usar parênteses vazios (). Por exemplo:
+
+() => expression;
+Linguagem do código:  C#  ( cs )
+Se uma expressão lambda tiver exatamente um parâmetro e o compilador C# puder inferir o tipo do parâmetro, você poderá omitir os parênteses como este:
+
+Func<T, TResult> lambda = parameter => expression;
+Linguagem do código:  C#  ( cs )
+Se uma expressão lambda tiver vários parâmetros, você poderá usar uma vírgula para separar os dois parâmetros da seguinte maneira:
+
+(p1, p2, p3) => expression;
