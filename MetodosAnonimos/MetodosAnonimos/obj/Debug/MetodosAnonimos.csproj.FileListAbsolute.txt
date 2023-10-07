@@ -1,0 +1,8 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\MetodosAnonimos.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\MetodosAnonimos.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosAnonimos\MetodosAnonimos\bin\Debug\MetodosAnonimos.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\MetodosAnonimos.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\MetodosAnonimos.csproj.SuggestedBindingRedirects.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\MetodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\MetodosAnonimos.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\MetodosAnonimos\MetodosAnonimos\obj\Debug\MetodosAnonimos.pdb
