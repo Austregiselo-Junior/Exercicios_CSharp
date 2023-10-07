@@ -1,0 +1,8 @@
+C:\Users\a.junior\Documents\PDI\2023\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Users\a.junior\Documents\PDI\2023\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\a.junior\Documents\PDI\2023\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\a.junior\Documents\PDI\2023\Observer\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+C:\Users\a.junior\Documents\PDI\2023\Observer\Observer\obj\Debug\Observer.csproj.SuggestedBindingRedirects.cache
+C:\Users\a.junior\Documents\PDI\2023\Observer\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\a.junior\Documents\PDI\2023\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\a.junior\Documents\PDI\2023\Observer\Observer\obj\Debug\Observer.pdb
