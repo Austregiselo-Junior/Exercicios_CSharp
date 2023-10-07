@@ -1,0 +1,8 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\EstruturasCondicionaisedeRepeticao\EstruturasCondicionaisedeRepeticao\bin\Debug\EstruturasCondicionaisedeRepeticao.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\EstruturasCondicionaisedeRepeticao\EstruturasCondicionaisedeRepeticao\bin\Debug\EstruturasCondicionaisedeRepeticao.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\EstruturasCondicionaisedeRepeticao\EstruturasCondicionaisedeRepeticao\bin\Debug\EstruturasCondicionaisedeRepeticao.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\EstruturasCondicionaisedeRepeticao\EstruturasCondicionaisedeRepeticao\obj\Debug\EstruturasCondicionaisedeRepeticao.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\EstruturasCondicionaisedeRepeticao\EstruturasCondicionaisedeRepeticao\obj\Debug\EstruturasCondicionaisedeRepeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\EstruturasCondicionaisedeRepeticao\EstruturasCondicionaisedeRepeticao\obj\Debug\EstruturasCondicionaisedeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\EstruturasCondicionaisedeRepeticao\EstruturasCondicionaisedeRepeticao\obj\Debug\EstruturasCondicionaisedeRepeticao.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\EstruturasCondicionaisedeRepeticao\EstruturasCondicionaisedeRepeticao\obj\Debug\EstruturasCondicionaisedeRepeticao.pdb
