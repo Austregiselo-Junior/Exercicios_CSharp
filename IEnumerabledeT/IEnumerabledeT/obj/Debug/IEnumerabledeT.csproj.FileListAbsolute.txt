@@ -1,0 +1,8 @@
+C:\Users\a.junior\Documents\PDI\2023\IEnumerabledeT\IEnumerabledeT\bin\Debug\IEnumerabledeT.exe.config
+C:\Users\a.junior\Documents\PDI\2023\IEnumerabledeT\IEnumerabledeT\bin\Debug\IEnumerabledeT.exe
+C:\Users\a.junior\Documents\PDI\2023\IEnumerabledeT\IEnumerabledeT\bin\Debug\IEnumerabledeT.pdb
+C:\Users\a.junior\Documents\PDI\2023\IEnumerabledeT\IEnumerabledeT\obj\Debug\IEnumerabledeT.csproj.AssemblyReference.cache
+C:\Users\a.junior\Documents\PDI\2023\IEnumerabledeT\IEnumerabledeT\obj\Debug\IEnumerabledeT.csproj.SuggestedBindingRedirects.cache
+C:\Users\a.junior\Documents\PDI\2023\IEnumerabledeT\IEnumerabledeT\obj\Debug\IEnumerabledeT.csproj.CoreCompileInputs.cache
+C:\Users\a.junior\Documents\PDI\2023\IEnumerabledeT\IEnumerabledeT\obj\Debug\IEnumerabledeT.exe
+C:\Users\a.junior\Documents\PDI\2023\IEnumerabledeT\IEnumerabledeT\obj\Debug\IEnumerabledeT.pdb

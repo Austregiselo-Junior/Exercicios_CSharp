@@ -1,0 +1,9 @@
+﻿O IEnumerable<T> é uma interface que representa uma sequência de objetos que podem ser enumerados, ou seja itera sequênci de objetos.
+
+
+Com o IEnumerable<T>, podemos usar o "Yieald" que cria uma sequência de numeros sem criar uma nova lista, com o Yieald o método que faz a lógica só funciona quando ele for iterado por algum laço.
+A cada iteração o método da lógica roda uma vez, consultas com o Yeald são chamadas de execução adiada, porque espera a iteração.
+
+IEnumerable<T> e LINQ
+O Linq depende muito da avaliação de consulta adiada.
+A avaliação de consulta adiada é importante porque permite definir uma consulta em um ponto e usá-la mais tarde, exatamente quando desejar, quantas vezes forem necessárias. 
