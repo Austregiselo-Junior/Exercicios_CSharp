@@ -1,0 +1,15 @@
+C:\Users\a.junior\Documents\PDI\2023\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\a.junior\Documents\PDI\2023\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\a.junior\Documents\PDI\2023\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\a.junior\Documents\PDI\2023\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+C:\Users\a.junior\Documents\PDI\2023\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\a.junior\Documents\PDI\2023\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\a.junior\Documents\PDI\2023\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\a.junior\Documents\PDI\2023\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
