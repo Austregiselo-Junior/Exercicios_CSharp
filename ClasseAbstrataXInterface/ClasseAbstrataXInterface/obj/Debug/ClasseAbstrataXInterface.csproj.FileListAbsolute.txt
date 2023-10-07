@@ -1,0 +1,8 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\ClasseAbstrataXInterface\ClasseAbstrataXInterface\bin\Debug\ClasseAbstrataXInterface.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\ClasseAbstrataXInterface\ClasseAbstrataXInterface\bin\Debug\ClasseAbstrataXInterface.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\ClasseAbstrataXInterface\ClasseAbstrataXInterface\bin\Debug\ClasseAbstrataXInterface.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\ClasseAbstrataXInterface\ClasseAbstrataXInterface\obj\Debug\ClasseAbstrataXInterface.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\ClasseAbstrataXInterface\ClasseAbstrataXInterface\obj\Debug\ClasseAbstrataXInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\ClasseAbstrataXInterface\ClasseAbstrataXInterface\obj\Debug\ClasseAbstrataXInterface.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\ClasseAbstrataXInterface\ClasseAbstrataXInterface\obj\Debug\ClasseAbstrataXInterface.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\ClasseAbstrataXInterface\ClasseAbstrataXInterface\obj\Debug\ClasseAbstrataXInterface.pdb
