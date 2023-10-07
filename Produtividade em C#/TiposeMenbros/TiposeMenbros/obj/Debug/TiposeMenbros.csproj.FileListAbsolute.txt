@@ -1,0 +1,8 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\TiposeMenbros\TiposeMenbros\bin\Debug\TiposeMenbros.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\TiposeMenbros\TiposeMenbros\bin\Debug\TiposeMenbros.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\TiposeMenbros\TiposeMenbros\bin\Debug\TiposeMenbros.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\TiposeMenbros\TiposeMenbros\obj\Debug\TiposeMenbros.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\TiposeMenbros\TiposeMenbros\obj\Debug\TiposeMenbros.csproj.SuggestedBindingRedirects.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\TiposeMenbros\TiposeMenbros\obj\Debug\TiposeMenbros.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\TiposeMenbros\TiposeMenbros\obj\Debug\TiposeMenbros.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\TiposeMenbros\TiposeMenbros\obj\Debug\TiposeMenbros.pdb

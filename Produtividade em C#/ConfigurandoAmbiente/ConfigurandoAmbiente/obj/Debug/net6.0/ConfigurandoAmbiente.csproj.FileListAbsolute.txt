@@ -1,0 +1,15 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\bin\Debug\net6.0\ConfigurandoAmbiente.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\bin\Debug\net6.0\ConfigurandoAmbiente.deps.json
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\bin\Debug\net6.0\ConfigurandoAmbiente.runtimeconfig.json
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\bin\Debug\net6.0\ConfigurandoAmbiente.dll
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\bin\Debug\net6.0\ConfigurandoAmbiente.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\obj\Debug\net6.0\ConfigurandoAmbiente.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\obj\Debug\net6.0\ConfigurandoAmbiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\obj\Debug\net6.0\ConfigurandoAmbiente.AssemblyInfoInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\obj\Debug\net6.0\ConfigurandoAmbiente.AssemblyInfo.cs
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\obj\Debug\net6.0\ConfigurandoAmbiente.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\obj\Debug\net6.0\ConfigurandoAmbiente.dll
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\obj\Debug\net6.0\refint\ConfigurandoAmbiente.dll
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\obj\Debug\net6.0\ConfigurandoAmbiente.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\obj\Debug\net6.0\ConfigurandoAmbiente.genruntimeconfig.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ConfigurandoAmbiente\ConfigurandoAmbiente\obj\Debug\net6.0\ref\ConfigurandoAmbiente.dll

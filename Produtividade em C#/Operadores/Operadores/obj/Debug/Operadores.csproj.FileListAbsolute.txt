@@ -1,0 +1,7 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\Operadores\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\Operadores\Operadores\obj\Debug\Operadores.pdb

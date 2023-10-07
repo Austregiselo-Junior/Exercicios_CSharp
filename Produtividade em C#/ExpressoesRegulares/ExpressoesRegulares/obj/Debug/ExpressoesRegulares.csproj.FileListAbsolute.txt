@@ -1,0 +1,8 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ExpressoesRegulares\ExpressoesRegulares\bin\Debug\ExpressoesRegulares.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ExpressoesRegulares\ExpressoesRegulares\bin\Debug\ExpressoesRegulares.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ExpressoesRegulares\ExpressoesRegulares\bin\Debug\ExpressoesRegulares.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ExpressoesRegulares\ExpressoesRegulares\obj\Debug\ExpressoesRegulares.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ExpressoesRegulares\ExpressoesRegulares\obj\Debug\ExpressoesRegulares.csproj.SuggestedBindingRedirects.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ExpressoesRegulares\ExpressoesRegulares\obj\Debug\ExpressoesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ExpressoesRegulares\ExpressoesRegulares\obj\Debug\ExpressoesRegulares.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Livros\Produtividade em C#\ExpressoesRegulares\ExpressoesRegulares\obj\Debug\ExpressoesRegulares.pdb
