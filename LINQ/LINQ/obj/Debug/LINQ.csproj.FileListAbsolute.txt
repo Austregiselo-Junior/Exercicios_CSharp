@@ -1,0 +1,7 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\LINQ\LINQ\obj\Debug\LINQ.pdb

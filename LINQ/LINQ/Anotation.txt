@@ -1,0 +1,12 @@
+﻿Introdução ao LINQ
+LINQ é um conjunto de extensões de linguagem em C# que permitem manipular e analisar dados de maneira declarativa e concisa.
+
+LINQ permite escrever consultas em várias fontes de dados usando a sintaxe comum e o mesmo conjunto de operadores.
+
+A sintaxe e os operadores do LINQ são como SQL (linguagem de consulta estruturada), mas o LINQ oferece uma abordagem mais segura e orientada a objetos para consultar e gerenciar dados.
+
+LINQ permite que você escreva consultas de duas maneiras:
+
+ - Sintaxe de consulta
+ - Sintaxe do método
+A sintaxe de consulta usa uma sintaxe semelhante a SQL com palavras-chave como from, where, select, orderby, groupby enquanto a sintaxe do método usa um conjunto de métodos de extensão, como Where(), Select(), OrderBy()e GroupBy().
