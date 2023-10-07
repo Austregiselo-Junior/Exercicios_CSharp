@@ -1,0 +1,8 @@
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposAnonimos\TiposAnonimos\bin\Debug\TiposAnonimos.exe.config
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposAnonimos\TiposAnonimos\bin\Debug\TiposAnonimos.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposAnonimos\TiposAnonimos\bin\Debug\TiposAnonimos.pdb
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposAnonimos\TiposAnonimos\obj\Debug\TiposAnonimos.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposAnonimos\TiposAnonimos\obj\Debug\TiposAnonimos.csproj.SuggestedBindingRedirects.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposAnonimos\TiposAnonimos\obj\Debug\TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposAnonimos\TiposAnonimos\obj\Debug\TiposAnonimos.exe
+C:\Users\austr\OneDrive\Documentos\Cursos e concursos\Exemplos de código C#\TiposAnonimos\TiposAnonimos\obj\Debug\TiposAnonimos.pdb
